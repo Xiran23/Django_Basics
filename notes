@@ -1,0 +1,27 @@
+
+1. pip install virtualenv
+ virtualenv
+
+pypi.org
+2.pip intall virtual env 
+virtualenv env(name of env)  python -m virtualenv <nameOfEnv>
+
+python -m venv myenv
+.\myenv\Scripts\activate
+pip install django
+pip install django
+django-admin startproject myproject(projects name)
+cd myproject
+python manage.py runserver
+
+env \scripts\activate
+@REM on terminal run as adminster
+@REM Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+pip intall Django 
+django-admin startproject (nameofprojectcd)
+
+
+python manage.py runserver
+
+in another terminal 
+python manage.py startapp base 
