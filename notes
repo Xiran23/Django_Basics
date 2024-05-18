@@ -4,7 +4,8 @@
 
 pypi.org
 2.pip intall virtual env 
-virtualenv env(name of env)  python -m virtualenv <nameOfEnv>
+virtualenv env(name of env)  
+python -m virtualenv <nameOfEnv>
 
 python -m venv myenv
 .\myenv\Scripts\activate
